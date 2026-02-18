@@ -3,6 +3,9 @@
 :root {
   --background: #ffffff;
   --foreground: #1c1c1c;
+  --promo-bar-height: 40px;
+  --promo-safe-top: env(safe-area-inset-top, 0px);
+  --promo-bar-offset: calc(var(--promo-bar-height) + var(--promo-safe-top));
 }
 
 @theme inline {
@@ -17,6 +20,7 @@ body {
   font-family: var(--font-jost), sans-serif;
   font-size: 14px;
   line-height: 1.65;
+  padding-top: var(--promo-bar-offset);
 }
 
 .container-brand {

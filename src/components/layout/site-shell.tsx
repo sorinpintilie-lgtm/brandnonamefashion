@@ -41,19 +41,45 @@ const menuGroups = [
 
 export function SiteShell({ children }: { children: React.ReactNode }) {
   const [open, setOpen] = useState(false);
-  const announcement = useMemo(
-    () =>
-      "REDUCERI DE PANA LA -50% LA O SELECTIE DE PRODUSE | LIVRARE SI RETUR GRATUIT",
-    []
-  );
 
   return (
     <div className="min-h-screen bg-white text-[#1c1c1c]">
-      <div className="bg-[#fafafa] px-4 py-2 text-center text-[11px] tracking-wide text-zinc-700 md:text-xs">
-        {announcement}
+      <div
+        className="fixed inset-x-0 top-0 z-[100] border-b border-black/10 bg-[#F2B94B] px-3 text-[12px] font-normal tracking-[0.01em] text-[#1F2933]"
+        style={{
+          height: "var(--promo-bar-height)",
+          paddingTop: "var(--promo-safe-top)",
+        }}
+      >
+        <div className="mx-auto hidden h-[var(--promo-bar-height)] w-full max-w-[1440px] items-center justify-between gap-3 md:flex">
+          <p className="truncate">
+            Concept demo • Conținut orientativ • Dezvoltat de sky.ro • {" "}
+            <a href="mailto:dan.trifan@sky.ro" className="underline decoration-black/30 underline-offset-2 hover:decoration-black">
+              dan.trifan@sky.ro
+            </a>{" "}
+            • {" "}
+            <a href="tel:+40720088880" className="underline decoration-black/30 underline-offset-2 hover:decoration-black">
+              +4 0720 088 880
+            </a>
+          </p>
+          <a
+            href="/pages/contact"
+            className="inline-flex shrink-0 items-center rounded-full bg-[#2F80ED] px-3 py-1 text-[11px] font-normal text-white transition hover:bg-[#2469c9] focus:outline-none focus-visible:ring-2 focus-visible:ring-[#2F80ED]/40"
+          >
+            Contact rapid
+          </a>
+        </div>
+
+        <div className="mx-auto grid h-[var(--promo-bar-height)] w-full grid-cols-[1fr_auto_1fr] items-center gap-2 md:hidden">
+          <span className="truncate text-left">Concept demo</span>
+          <span className="whitespace-nowrap text-center">Dezvoltat de sky.ro</span>
+          <a className="justify-self-end whitespace-nowrap text-right text-[#1F2933] no-underline" href="tel:+40720088880">
+            +4 0720 088 880
+          </a>
+        </div>
       </div>
 
-      <header className="sticky top-0 z-30 bg-white/88 backdrop-blur-md">
+      <header className="sticky top-[var(--promo-bar-offset)] z-30 bg-white/88 backdrop-blur-md">
         <div className="mx-auto grid h-[70px] w-full max-w-[1440px] grid-cols-3 items-center px-4 md:px-8">
           <div className="justify-self-start">
             <button
