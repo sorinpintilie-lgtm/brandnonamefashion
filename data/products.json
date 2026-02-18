@@ -1,0 +1,111 @@
+[
+  {
+    "id": "p1",
+    "slug": "rochie-maro-din-satin-elastic-haze",
+    "title": "Rochie maro din satin elastic Haze",
+    "description": "Rochie midi cu silueta sculptata, confectionata din satin elastic.",
+    "care": "Curatare profesionala recomandata. Nu se usuca la masina.",
+    "collectionHandles": ["reduceri-de-iarna", "fall-winter-25", "rochii"],
+    "color": "Maro",
+    "availability": "Livrare rapida",
+    "badge": "PRE-ORDER",
+    "price": 1588,
+    "compareAtPrice": 1985,
+    "images": [
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "muses": [{ "name": "Dua Lipa", "handle": "@dualipa", "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80" }],
+    "variants": [
+      { "id": "p1-xxs", "size": "XXS", "stock": 5 },
+      { "id": "p1-xs", "size": "XS", "stock": 4 },
+      { "id": "p1-s", "size": "S", "stock": 2 },
+      { "id": "p1-m", "size": "M", "stock": 3 },
+      { "id": "p1-l", "size": "L", "stock": 1 },
+      { "id": "p1-xl", "size": "XL", "stock": 0 }
+    ]
+  },
+  {
+    "id": "p2",
+    "slug": "corset-maro-din-satin-elastic-haze",
+    "title": "Corset maro din satin elastic Haze",
+    "description": "Corset cu structura, decupaje discrete si inchidere la spate.",
+    "care": "Curatare profesionala recomandata.",
+    "collectionHandles": ["reduceri-de-iarna", "fall-winter-25"],
+    "color": "Maro",
+    "availability": "Pe comanda",
+    "price": 1240,
+    "compareAtPrice": 1550,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1464863979621-258859e62245?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "muses": [{ "name": "Rita Ora", "handle": "@ritaora", "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80" }],
+    "variants": [
+      { "id": "p2-xs", "size": "XS", "stock": 3 },
+      { "id": "p2-s", "size": "S", "stock": 4 },
+      { "id": "p2-m", "size": "M", "stock": 3 },
+      { "id": "p2-l", "size": "L", "stock": 2 }
+    ]
+  },
+  {
+    "id": "p3",
+    "slug": "rochie-midi-rosu-burgund-cu-cupe-retro-candy",
+    "title": "Rochie midi rosu burgund cu cupe retro Candy",
+    "description": "Rochie midi rosu burgund cu accent pe bust si talie.",
+    "care": "Curatare profesionala.",
+    "collectionHandles": ["reduceri-de-iarna", "rochii"],
+    "color": "Rosu burgund",
+    "availability": "Livrare rapida",
+    "price": 1760,
+    "compareAtPrice": 2200,
+    "images": [
+      "https://images.unsplash.com/photo-1502716119720-b23a93e5fe1b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1463100099107-aa0980c362e6?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "muses": [{ "name": "Lady Gaga", "handle": "@ladygaga", "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80" }],
+    "variants": [
+      { "id": "p3-fr34", "size": "FR 34", "stock": 1 },
+      { "id": "p3-fr36", "size": "FR 36", "stock": 2 },
+      { "id": "p3-fr38", "size": "FR 38", "stock": 2 },
+      { "id": "p3-fr40", "size": "FR 40", "stock": 1 }
+    ]
+  },
+  {
+    "id": "p4",
+    "slug": "corset-alb-din-satin-elastic-sculpt",
+    "title": "Corset alb din satin elastic Sculpt",
+    "description": "Corset alb cu croi structurat.",
+    "care": "Curatare profesionala.",
+    "collectionHandles": ["fall-winter-25", "lenjerie"],
+    "color": "Alb",
+    "availability": "Pe comanda",
+    "price": 1320,
+    "images": ["https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=1200&q=80"],
+    "muses": [],
+    "variants": [
+      { "id": "p4-xs", "size": "XS", "stock": 5 },
+      { "id": "p4-s", "size": "S", "stock": 5 },
+      { "id": "p4-m", "size": "M", "stock": 3 }
+    ]
+  },
+  {
+    "id": "p5",
+    "slug": "body-negru-din-satin-elastic-sculpt",
+    "title": "Body negru din satin elastic Sculpt",
+    "description": "Body negru cu finisaj satinat si decolteu sculptat.",
+    "care": "Spalare manuala.",
+    "collectionHandles": ["lenjerie"],
+    "color": "Negru",
+    "availability": "Livrare rapida",
+    "price": 980,
+    "images": ["https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1200&q=80"],
+    "muses": [],
+    "variants": [
+      { "id": "p5-xs", "size": "XS", "stock": 5 },
+      { "id": "p5-s", "size": "S", "stock": 5 },
+      { "id": "p5-m", "size": "M", "stock": 2 },
+      { "id": "p5-l", "size": "L", "stock": 1 }
+    ]
+  }
+]

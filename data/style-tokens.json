@@ -1,0 +1,2285 @@
+{
+  "/": {
+    "mobile-375": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "15.4px",
+        "lineHeight": "26.18px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "BRAND",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "28px",
+          "lineHeight": "46.2px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "Cele mai apreciate",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "33px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "tablet-768": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "18.4435px",
+        "lineHeight": "29.5096px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "BRAND",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "28px",
+          "lineHeight": "46.2px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "Cele mai apreciate",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "25.374px",
+          "lineHeight": "38.0611px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "desktop-1440": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "19.8px",
+        "lineHeight": "31.68px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "BRAND",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "28px",
+          "lineHeight": "46.2px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "Cele mai apreciate",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "30.8px",
+          "lineHeight": "43.12px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    }
+  },
+  "/collections/reduceri-de-iarna": {
+    "mobile-375": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "15.4px",
+        "lineHeight": "26.18px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": []
+    },
+    "tablet-768": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "18.4435px",
+        "lineHeight": "29.5096px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": []
+    },
+    "desktop-1440": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "19.8px",
+        "lineHeight": "31.68px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": []
+    }
+  },
+  "/collections/fall-winter-25": {
+    "mobile-375": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "15.4px",
+        "lineHeight": "26.18px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": []
+    },
+    "tablet-768": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "18.4435px",
+        "lineHeight": "29.5096px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": []
+    },
+    "desktop-1440": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "19.8px",
+        "lineHeight": "31.68px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": []
+    }
+  },
+  "/collections/rochii": {
+    "mobile-375": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "15.4px",
+        "lineHeight": "26.18px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H2",
+          "text": "Rochii elegante, senzuale, statement, de la BRAND",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "17.6px",
+          "lineHeight": "28.16px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "tablet-768": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "18.4435px",
+        "lineHeight": "29.5096px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H2",
+          "text": "Rochii elegante, senzuale, statement, de la BRAND",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "18.4435px",
+          "lineHeight": "29.5096px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "desktop-1440": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "19.8px",
+        "lineHeight": "31.68px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H2",
+          "text": "Rochii elegante, senzuale, statement, de la BRAND",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "19.8px",
+          "lineHeight": "31.68px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    }
+  },
+  "/collections/lenjerie": {
+    "mobile-375": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "15.4px",
+        "lineHeight": "26.18px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": []
+    },
+    "tablet-768": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "18.4435px",
+        "lineHeight": "29.5096px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": []
+    },
+    "desktop-1440": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "19.8px",
+        "lineHeight": "31.68px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": []
+    }
+  },
+  "/products/rochie-maro-din-satin-elastic-haze": {
+    "mobile-375": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "15.4px",
+        "lineHeight": "26.18px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Rochie maro din satin elastic Haze",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "19.8px",
+          "lineHeight": "31.68px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "#BRAND Muses",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "33px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "Alte recomandari",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "33px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "tablet-768": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "18.4435px",
+        "lineHeight": "29.5096px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Rochie maro din satin elastic Haze",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "21.487px",
+          "lineHeight": "34.3792px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "#BRAND Muses",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "25.374px",
+          "lineHeight": "38.0611px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "Alte recomandari",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "25.374px",
+          "lineHeight": "38.0611px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "desktop-1440": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "19.8px",
+        "lineHeight": "31.68px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Rochie maro din satin elastic Haze",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "24.2px",
+          "lineHeight": "36.3px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "#BRAND Muses",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "30.8px",
+          "lineHeight": "43.12px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "Alte recomandari",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "30.8px",
+          "lineHeight": "43.12px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    }
+  },
+  "/products/corset-maro-din-satin-elastic-haze": {
+    "mobile-375": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "15.4px",
+        "lineHeight": "26.18px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Corset maro din satin elastic Haze",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "19.8px",
+          "lineHeight": "31.68px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "Alte recomandari",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "33px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "tablet-768": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "18.4435px",
+        "lineHeight": "29.5096px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Corset maro din satin elastic Haze",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "21.487px",
+          "lineHeight": "34.3792px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "Alte recomandari",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "25.374px",
+          "lineHeight": "38.0611px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "desktop-1440": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "19.8px",
+        "lineHeight": "31.68px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Corset maro din satin elastic Haze",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "24.2px",
+          "lineHeight": "36.3px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "Alte recomandari",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "30.8px",
+          "lineHeight": "43.12px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    }
+  },
+  "/products/rochie-midi-rosu-burgund-cu-cupe-retro-candy": {
+    "mobile-375": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "15.4px",
+        "lineHeight": "26.18px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Rochie midi rosu burgund cu cupe retro Candy",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "19.8px",
+          "lineHeight": "31.68px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "Alte recomandari",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "33px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "tablet-768": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "18.4435px",
+        "lineHeight": "29.5096px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Rochie midi rosu burgund cu cupe retro Candy",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "21.487px",
+          "lineHeight": "34.3792px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "Alte recomandari",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "25.374px",
+          "lineHeight": "38.0611px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "desktop-1440": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "19.8px",
+        "lineHeight": "31.68px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Rochie midi rosu burgund cu cupe retro Candy",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "24.2px",
+          "lineHeight": "36.3px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "Alte recomandari",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "30.8px",
+          "lineHeight": "43.12px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    }
+  },
+  "/pages/muses": {
+    "mobile-375": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "15.4px",
+        "lineHeight": "26.18px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "headingSamples": []
+    },
+    "tablet-768": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "18.4435px",
+        "lineHeight": "29.5096px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "headingSamples": []
+    },
+    "desktop-1440": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "19.8px",
+        "lineHeight": "31.68px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "headingSamples": []
+    }
+  },
+  "/pages/magazine-murmur": {
+    "mobile-375": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "15.4px",
+        "lineHeight": "26.18px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H3",
+          "text": "BRAND in magazine partenere",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "19.8px",
+          "lineHeight": "31.68px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "tablet-768": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "18.4435px",
+        "lineHeight": "29.5096px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H3",
+          "text": "BRAND in magazine partenere",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "21.487px",
+          "lineHeight": "34.3792px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "desktop-1440": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "19.8px",
+        "lineHeight": "31.68px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H3",
+          "text": "BRAND in magazine partenere",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "24.2px",
+          "lineHeight": "36.3px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    }
+  },
+  "/pages/contact": {
+    "mobile-375": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "15.4px",
+        "lineHeight": "26.18px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H3",
+          "text": "B2B",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "19.8px",
+          "lineHeight": "31.68px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H3",
+          "text": "PR",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "19.8px",
+          "lineHeight": "31.68px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "tablet-768": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "18.4435px",
+        "lineHeight": "29.5096px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H3",
+          "text": "B2B",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "21.487px",
+          "lineHeight": "34.3792px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H3",
+          "text": "PR",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "21.487px",
+          "lineHeight": "34.3792px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "desktop-1440": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "19.8px",
+        "lineHeight": "31.68px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H3",
+          "text": "B2B",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "24.2px",
+          "lineHeight": "36.3px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H3",
+          "text": "PR",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "24.2px",
+          "lineHeight": "36.3px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    }
+  },
+  "/account/login": {
+    "mobile-375": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "15.4px",
+        "lineHeight": "26.18px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Conecteaza-te",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "19.8px",
+          "lineHeight": "31.68px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H1",
+          "text": "Recupereaza parola",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "19.8px",
+          "lineHeight": "31.68px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "tablet-768": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "18.4435px",
+        "lineHeight": "29.5096px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Conecteaza-te",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "21.487px",
+          "lineHeight": "34.3792px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H1",
+          "text": "Recupereaza parola",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "21.487px",
+          "lineHeight": "34.3792px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "desktop-1440": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "19.8px",
+        "lineHeight": "31.68px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Conecteaza-te",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "24.2px",
+          "lineHeight": "36.3px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H1",
+          "text": "Recupereaza parola",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "24.2px",
+          "lineHeight": "36.3px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    }
+  },
+  "/search": {
+    "mobile-375": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "15.4px",
+        "lineHeight": "26.18px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Cauta",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "17.6px",
+          "lineHeight": "28.16px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "tablet-768": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "18.4435px",
+        "lineHeight": "29.5096px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Cauta",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "18.4435px",
+          "lineHeight": "29.5096px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "desktop-1440": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "19.8px",
+        "lineHeight": "31.68px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Cauta",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "19.8px",
+          "lineHeight": "31.68px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    }
+  },
+  "/cart": {
+    "mobile-375": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "15.4px",
+        "lineHeight": "26.18px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Cos",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "17.6px",
+          "lineHeight": "28.16px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "tablet-768": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "18.4435px",
+        "lineHeight": "29.5096px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Cos",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "18.4435px",
+          "lineHeight": "29.5096px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "desktop-1440": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "19.8px",
+        "lineHeight": "31.68px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H1",
+          "text": "Cos",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "19.8px",
+          "lineHeight": "31.68px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    }
+  },
+  "/blogs/descopera": {
+    "mobile-375": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "15.4px",
+        "lineHeight": "26.18px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H2",
+          "text": "Shop the look",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "33px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "ESSENTIALS",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "33px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H1",
+          "text": "Descopera",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "17.6px",
+          "lineHeight": "28.16px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "tablet-768": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "18.4435px",
+        "lineHeight": "29.5096px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H2",
+          "text": "Shop the look",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "25.374px",
+          "lineHeight": "38.0611px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "ESSENTIALS",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "25.374px",
+          "lineHeight": "38.0611px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H1",
+          "text": "Descopera",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "18.4435px",
+          "lineHeight": "29.5096px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    },
+    "desktop-1440": {
+      "base": {
+        "htmlFontSize": "16px",
+        "bodyFontFamily": "Jost, sans-serif",
+        "bodyFontSize": "14px",
+        "bodyLineHeight": "23.1px",
+        "bodyLetterSpacing": "normal",
+        "bodyColor": "rgb(28, 28, 28)",
+        "bodyBackground": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "14px",
+        "lineHeight": "23.1px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "input": {
+        "fontFamily": "Jost, sans-serif",
+        "fontSize": "19.8px",
+        "lineHeight": "31.68px",
+        "letterSpacing": "normal",
+        "fontWeight": "400",
+        "color": "rgb(28, 28, 28)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "border": "0px solid rgb(221, 221, 221)",
+        "textTransform": "none"
+      },
+      "headingSamples": [
+        {
+          "tag": "H2",
+          "text": "Shop the look",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "30.8px",
+          "lineHeight": "43.12px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H2",
+          "text": "ESSENTIALS",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "30.8px",
+          "lineHeight": "43.12px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        },
+        {
+          "tag": "H1",
+          "text": "Descopera",
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "19.8px",
+          "lineHeight": "31.68px",
+          "letterSpacing": "normal",
+          "fontWeight": "400",
+          "textTransform": "none"
+        }
+      ]
+    }
+  }
+}

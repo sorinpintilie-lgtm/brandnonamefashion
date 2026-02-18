@@ -1,0 +1,7 @@
+[
+  { "name": "Lauren Sanchez", "handle": "@laurenwsanchez", "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80", "productSlug": "rochie-maro-din-satin-elastic-haze" },
+  { "name": "Pamela Anderson", "handle": "@pamelaanderson", "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80", "productSlug": "corset-maro-din-satin-elastic-haze" },
+  { "name": "Britney Spears", "handle": "@britneyspears", "image": "https://images.unsplash.com/photo-1495385794356-15371f348c31?auto=format&fit=crop&w=900&q=80", "productSlug": "rochie-midi-rosu-burgund-cu-cupe-retro-candy" },
+  { "name": "Miley Cyrus", "handle": "@mileycyrus", "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80", "productSlug": "body-negru-din-satin-elastic-sculpt" },
+  { "name": "Paris Hilton", "handle": "@parishilton", "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=900&q=80", "productSlug": "corset-alb-din-satin-elastic-sculpt" }
+]

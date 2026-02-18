@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# BRAND Demo Clone
 
-## Getting Started
+Demo storefront built with Next.js App Router + TypeScript + TailwindCSS, using local JSON data and Playwright reference captures from https://murmur.ro.
 
-First, run the development server:
+## Run locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open `http://localhost:3000`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Lint
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run lint
+```
 
-## Learn More
+## Capture references from live site (Playwright)
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run capture:murmur
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This script:
+- visits required routes from murmur.ro,
+- captures full-page screenshots at `375`, `768`, `1440`,
+- writes screenshots under `public/assets/murmur/reference/*`,
+- writes style tokens to `data/style-tokens.json`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Data model
 
-## Deploy on Vercel
+Main data files:
+- `data/products.json`
+- `data/collections.json`
+- `data/muses.json`
+- `data/stores.json`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Update these files to change product cards, collections, prices, discounts, variants, muses, and store info.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Routes included
+
+- `/`
+- `/collections/[handle]`
+- `/products/[slug]`
+- `/pages/muses`
+- `/pages/magazine-murmur`
+- `/pages/contact`
+- `/account/login`
+- `/search`
+- `/cart`
+- `/blogs/descopera`
+- `/policies/[slug]`
+- `/dev/compare`
+
+## Assets
+
+Reference screenshots and media manifests are stored in:
+- `public/assets/murmur/reference/mobile-375`
+- `public/assets/murmur/reference/tablet-768`
+- `public/assets/murmur/reference/desktop-1440`
+
+Use these images to iterate visually on layout and spacing.
